@@ -154,19 +154,24 @@ alongside it.
 ## Screenshots
 
 ## Executive Overview
-images/ExecutiveView.png
 
-### Live Alert Center
-images/LiveAlert.png
+![Executive Overview](images/ExecutiveView.png)
 
-### Entity Behavioral Profile
-images/EnitityBehavioralProfile.png
+## Live Alert Center
 
-### Threat Analytics
-images/ThreatAnalytics.png
+![Live Alert Center](images/LiveAlert.png)
 
-### Model Performance
-images/ModelPerformance.png
+## Entity Behavioral Profile
+
+![Entity Behavioral Profile](images/EnitityBehavioralProfile.png)
+
+## Threat Analytics
+
+![Threat Analytics](images/ThreatAnalytics.png)
+
+## Model Performance
+
+![Model Performance](images/ModelPerformance.png)
 
 ## Limitations
 
