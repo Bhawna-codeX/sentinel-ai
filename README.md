@@ -153,9 +153,20 @@ alongside it.
 
 ## Screenshots
 
-*(Add screenshots of each dashboard page here before submission: Executive Overview, Live Alert
-Center, Entity Behavioral Profile, Threat Analytics, Model Performance, Drift & Cold Start, Attack
-Simulator, Architecture & About.)*
+## Executive Overview
+![Executive Overview](images/ExecutiveView.png)
+
+### Live Alert Center
+![Live Alert Center](images/LiveAlert.png)
+
+### Entity Behavioral Profile
+![Entity Behavioral Profile](images/EnitityBehavioralProfile.png)
+
+### Threat Analytics
+![Threat Analytics](images/ThreatAnalytics.png)
+
+### Model Performance
+![Model Performance](images/ModelPerformance.png)
 
 ## Limitations
 
@@ -179,7 +190,7 @@ Simulator, Architecture & About.)*
 
 ## Team
 
-- **Bhawna Chaurasia** (23BAI10924) - *(add teammates here if applicable)*
+- **Bhawna Chaurasia**
 
 ## License
 
